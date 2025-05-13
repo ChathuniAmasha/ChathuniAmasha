@@ -56,7 +56,7 @@
 
 ### 🌱 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/chathuniamasha)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chathuni-rathnathilake-989066311/)
 - 📬 Reach me at: **chathuniamasha12@gmail.com**
 
 ---
