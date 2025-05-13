@@ -71,7 +71,7 @@
 ### 🌱 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chathuni-rathnathilake-989066311/)
-- 📬 Reach me at: **your-email@example.com**
+- 📬 Reach me at: **chathuniamasha12@gmail.com**
 
 ---
 
