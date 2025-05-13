@@ -17,30 +17,16 @@
 
 ---
 
-### 💻 Tech Stack
+### 🧰 Tech Stack
 
-#### 🧠 Languages
-- Python 🐍 (NumPy, Pandas, Scikit-learn)
-- R 📊 (ggplot2, caret)
-- SQL 🛢️
-- JavaScript (for visualization frameworks like D3.js)
-- Bash & Git scripting 🐧
-
-#### 📊 Data Science & ML
-- Scikit-Learn
-- TensorFlow & Keras
-- PyTorch
-- OpenCV
-- HuggingFace Transformers
-- Jupyter Notebooks
-
-#### 📈 Tools & Platforms
-- Google Colab, Kaggle
-- Git & GitHub 🔧
-- VS Code
-- Linux CLI 🐧
-- Docker (basics)
-- Streamlit for interactive apps
+| 🧠 Languages       | 📊 Data Science & ML       | ⚙️ Tools & Platforms         |
+|-------------------|----------------------------|------------------------------|
+| Python 🐍         | Scikit-learn               | Google Colab, Kaggle        |
+| R 📊              | TensorFlow, Keras          | Git & GitHub 🔧              |
+| SQL 🛢️           | PyTorch                    | VS Code                      |
+| JavaScript (D3.js)| OpenCV                     | Linux CLI 🐧                 |
+| Bash & Git 🐧     | HuggingFace Transformers   | Docker (Basics)             |
+|                   | Jupyter Notebooks          | Streamlit                   |
 
 ---
 
@@ -70,10 +56,9 @@
 
 ### 🌱 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/chathuni-rathnathilake-989066311/)
-- 📬 Reach me at: **chathuniamasha12@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chathuniamasha)
+- 📬 Reach me at: **your-email@example.com**
 
 ---
 
 ⭐️ *Thanks for visiting my profile! Have a great day ahead!*
-
