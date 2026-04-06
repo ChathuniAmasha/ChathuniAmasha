@@ -11,9 +11,9 @@
 
 🎓 I’m currently a **Final Year** undergraduate in **Data Science** at the **University of Colombo**  
 💡 Passionate about turning data into actionable insights  
-🧑‍💻 Currently learning more about **Deep Learning**, **MLOps**, and **Cloud AI**  
-🌐 Open to collaboration on exciting ML/AI projects  
-🧭 Exploring NLP, Computer Vision, and Reinforcement Learning  
+🧑‍💻 Currently learning more about **Data ENgineering**, **Deep Learning**, **MLOps**, and **Cloud AI**  
+🌐 Open to collaboration on exciting Data Engineering and ML/AI  projects  
+🧭 Exploring Cloud Data Engineering and Data Modeling 
 
 ---
 
@@ -32,11 +32,10 @@
 
 ### 🚀 Interests
 
-- 🧠 Machine Learning  
+- 🛠️📊 Data Engineering
+- 🧠 Machine Learning
 - 🤖 Deep Learning & Neural Nets  
-- 💬 Natural Language Processing  
-- 🧍‍♀️ Computer Vision  
-- 📡 Data Engineering Pipelines  
+- 💬 Natural Language Processing     
 - 🧪 Data Analytics & Visualization  
 - 🌐 AI Ethics & Fairness  
 
