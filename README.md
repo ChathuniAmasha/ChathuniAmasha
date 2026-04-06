@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Final Year Data Science Student | University of Colombo</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Deep+Learning+Learner;Always+Curious&center=true&width=500&height=40" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+and+Data+Engineering+Enthusiast;Machine+Learning+Explorer;Deep+Learning+Learner;Always+Curious&center=true&width=500&height=40" />
 </p>
 
 ---
